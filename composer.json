@@ -8,7 +8,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Decorate\\DecorateComands\\": "decorate-commands/"
+            "Decorate\\DecorateCommands\\": ""
         }
     },
     "minimum-stability": "dev"
