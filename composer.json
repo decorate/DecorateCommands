@@ -11,5 +11,9 @@
             "Decorate\\DecorateCommands\\": ""
         }
     },
+    "vendor-dir": "/decorate-commands/",
+    "config": {
+        "sort-packages": true
+    },
     "minimum-stability": "dev"
 }
