@@ -3,12 +3,14 @@
     "description": "make a commands package",
     "license": "MIT",
     "require": {
-        "php": "^7.1.3",
-        "decorate-commands/js-model-make-command": "^1.0.4"
+        "php": "^7.1.3"
+    },
+    "replace": {
+        "decorate-commands/js-model-make-command": "^v1.0.12"
     },
     "autoload": {
         "psr-4": {
-            "DecorateCommands\\": "src/DecorateCommands/"
+            "DecorateCommands\\JsModelMakeCommand\\": "src/DecorateCommands"
         }
     },
     "config": {
