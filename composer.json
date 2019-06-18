@@ -8,7 +8,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Decorate\\DecorateCommands\\": ""
+            "DecorateCommands\\": "src/DecorateCommands/"
         }
     },
     "config": {
